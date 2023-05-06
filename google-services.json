@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993542743036",
+    "project_id": "hellomotumdemo",
+    "storage_bucket": "hellomotumdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993542743036:android:d783dc6e8fa8989ec18879",
+        "android_client_info": {
+          "package_name": "com.example.qatestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993542743036-9l70i86rlvub4bdp8e7k7hap44pe35ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnk-_MeLs0Rbd1-huox8VVE5DrhCY7AM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993542743036-9l70i86rlvub4bdp8e7k7hap44pe35ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
